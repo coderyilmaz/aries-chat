@@ -1,7 +1,7 @@
 {
   "name": "secure-realtime-messaging",
   "version": "2.0.0",
-  "description": "Secure real-time messaging system with encrypted communication",
+  "description": "Node.js ve modern web teknolojileri kullanılarak geliştirilmiş gerçek zamanlı mesajlaşma sistemi.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
